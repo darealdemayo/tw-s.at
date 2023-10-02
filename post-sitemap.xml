@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Diese Sitemap wurde dynamisch am 2.10.2023 um 21:46 von All in One SEO v4.4.7.1 – dem originalen SEO-Plugin für WordPress – erstellt. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=post"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/blog/]]></loc>
+		<lastmod><![CDATA[2019-07-31T14:48:16+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
